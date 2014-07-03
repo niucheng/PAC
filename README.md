@@ -9,7 +9,7 @@ How to pick and choose fruits for Android (Pick And Choose, PAC).
 
 1. 现在是夏天，怎样挑选又大又甜又脆的大西瓜呢？
 2. 怎样挑选甜葡萄呢？
-3. ...
+3. 苹果 (Apple) :blush:
 
 免责声明
 ========
