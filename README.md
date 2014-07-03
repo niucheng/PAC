@@ -7,7 +7,9 @@ How to pick and choose fruits for Android (Pick And Choose, PAC).
 
 ## 实战攻略
 
-1. 现在是夏天，怎样挑又大又甜又脆的大西瓜呢？
+1. 现在是夏天，怎样挑选又大又甜又脆的大西瓜呢？
+2. 怎样挑选甜葡萄呢？
+3. ...
 
 免责声明
 ========
@@ -17,3 +19,4 @@ How to pick and choose fruits for Android (Pick And Choose, PAC).
 --
 
 How to pick and choose fruits (PAC, 怎样挑选水果) for Android - Copyright (C) 2014 :sparkles:
+
